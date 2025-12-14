@@ -5,7 +5,7 @@
 Due to GitHub’s file size limitations, the Power BI report file (.pbix) cannot be uploaded directly to this repository.
 
 📊 Access the Power BI Dashboard here:
-🔗 Google Drive Link: https://drive.google.com/file/d/1oyKjnKhr7y_8xS5-5ZwVv_12FkMQY7gr/view
+🔗 Google Drive Link: https://drive.google.com/drive/folders/1wkw4R9bBHV9LuScy_M4ulSBbHxDKgJwU
 
 --------->Note: Download the file and open it using Power BI Desktop to experience full interactivity.<--------
 
