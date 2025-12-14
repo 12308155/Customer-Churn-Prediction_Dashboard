@@ -1,5 +1,5 @@
--------------------------📊 Customer Churn Analytics Dashboard (Power BI)--------------------------------
-🔍 Project Overview
+📊 Customer Churn Analytics Dashboard (Power BI)
+
 -------------------------->📁 Power BI File Access (Important Note)<---------------
 
 Due to GitHub’s file size limitations, the Power BI report file (.pbix) cannot be uploaded directly to this repository.
